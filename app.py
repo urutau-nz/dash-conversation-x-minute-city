@@ -58,11 +58,11 @@ destinations = pd.read_csv('./data/destinations.csv')
         Input("amenity-select", "value"),
         Input("mode-select", "value"),
         Input("city-select", "value"),
-        Input("ecdf", "selectedData"),
+        # Input("ecdf", "selectedData"),
     ],
 )
 def update_map(
-    amenity_select, mode_select, city_select, ecdf_selectedData
+    amenity_select, mode_select, city_select, #ecdf_selectedData
 ):
     x_range = None
     # subset the desination df
@@ -86,46 +86,6 @@ def update_map(
                 x_range = [ecdf_selectedData['points'][0]['x']]*2
 
     return resilience.generate_map(amenity_select, dff_dist, dff_dest, mode_select, city_select, x_range=x_range)
-
-
-# Update ecdf
-@app.callback(
-    Output("ecdf", "figure"),
-    [
-        Input("amenity-select", "value"),
-        Input("mode-select", "value"),
-        Input("city-select", "value"),
-        Input("ecdf", "selectedData"),
-    ],
-)
-def update_ecdf(
-    amenity_select, mode_select, city_select, ecdf_selectedData
-    ):
-    x_range = None
-    # day = int(day)
-
-    # subset data
-    dff_dist = df_dist[(df_dist['dest_type']==amenity_select) & (df_dist['mode']==mode_select) & (df_dist.city==city_select)]
-
-    # Find which one has been triggered
-    ctx = dash.callback_context
-
-    prop_id = ""
-    prop_type = ""
-    if ctx.triggered:
-        splitted = ctx.triggered[0]["prop_id"].split(".")
-        prop_id = splitted[0]
-        prop_type = splitted[1]
-
-    if prop_id == 'ecdf' and prop_type == "selectedData":
-        if ecdf_selectedData:
-            if 'range' in ecdf_selectedData:
-                x_range = ecdf_selectedData['range']['x']
-            else:
-                x_range = [ecdf_selectedData['points'][0]['x']]*2
-
-    return resilience.generate_ecdf_plot(amenity_select, dff_dist, mode_select, x_range)
-
 
 
 
