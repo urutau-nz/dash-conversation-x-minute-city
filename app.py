@@ -17,7 +17,7 @@ from pages import (
 
 app = dash.Dash(
     __name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}],
-    url_base_pathname='/x-minute-city-conversation/',
+    url_base_pathname='/proximity-conversation/',
 )
 server = app.server
 
