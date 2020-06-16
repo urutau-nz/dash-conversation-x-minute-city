@@ -97,13 +97,16 @@ def update_map(
 def update_output(
     amenity_select, mode_select, city_select, max_time
 ):
-    percentage = 5
+    dff_dist = df_dist[(df_dist['dest_type']==amenity_select) & (df_dist['mode']==mode_select) & (df_dist.city==city_select)]
+    total_pop = dff_dist['population'].sum()
+    pop_within = dff_dist.loc[dff_dist.duration <= max_time, 'population'].sum()
+    percentage = pop_within/total_pop*100
     if max_time:
-        return '{} % of {} residents are within {}-minutes {} of {}'.format(percentage, city_select.capitalize(), max_time, mode_select, amenity_select)
+        return '{:.1f} % of {} residents are within {}-minutes {} of {}'.format(percentage, city_select.capitalize(), max_time, mode_select, amenity_select)
     else:
         return ''
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True,port=9008)
-    # app.run_server(port=9008)
+    # app.run_server(debug=True,port=9008)
+    app.run_server(port=9008)
