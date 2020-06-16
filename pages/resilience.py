@@ -203,7 +203,7 @@ def create_layout(app):
         [
             html.Div(
                 [
-                    # Row 4
+                    # City and transport mode selection
                     html.Div(
                         [
                             html.Div(
@@ -300,6 +300,35 @@ def create_layout(app):
                                     ],
                                 className="twelve columns",
                             )
+                        ],
+                        className="row ",
+                    ),
+                    # Time and percent people
+                    html.Div(
+                        [
+                            html.Div(
+                                [
+                                    html.H6(
+                                        [
+                                            "Enter a maximum travel time (minutes)"
+                                        ],
+                                        className="subtitle padded",
+                                    ),
+                                    dcc.Input(
+                                        id="time-select",
+                                        type='number',
+                                        placeholder="input travel time (minutes)",
+                                        labelStyle={'display': 'inline-block'},
+                                    ),
+                                ],
+                                className=" six columns",
+                            ),
+                            html.Div(
+                                [
+                                    html.Div(id="output"),
+                                ],
+                                className=" six columns",
+                            ),
                         ],
                         className="row ",
                     ),

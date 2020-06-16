@@ -58,11 +58,11 @@ destinations = pd.read_csv('./data/destinations.csv')
         Input("amenity-select", "value"),
         Input("mode-select", "value"),
         Input("city-select", "value"),
-        # Input("ecdf", "selectedData"),
+        Input("time-select", "value"),
     ],
 )
 def update_map(
-    amenity_select, mode_select, city_select, #ecdf_selectedData
+    amenity_select, mode_select, city_select, max_time
 ):
     x_range = None
     # subset the desination df
@@ -78,16 +78,27 @@ def update_map(
         prop_id = splitted[0]
         prop_type = splitted[1]
 
-    if prop_id == 'ecdf' and prop_type == "selectedData":
-        if ecdf_selectedData:
-            if 'range' in ecdf_selectedData:
-                x_range = ecdf_selectedData['range']['x']
-            else:
-                x_range = [ecdf_selectedData['points'][0]['x']]*2
+    if prop_id == 'time-select' and prop_type == "value":
+        if max_time:
+            x_range = [0, max_time]
 
     return resilience.generate_map(amenity_select, dff_dist, dff_dest, mode_select, city_select, x_range=x_range)
 
 
+@app.callback(
+    Output("output", "children"),
+    [
+        Input("amenity-select", "value"),
+        Input("mode-select", "value"),
+        Input("city-select", "value"),
+        Input("time-select", "value"),
+        ],
+)
+def update_output(
+    amenity_select, mode_select, city_select, max_time
+):
+    percentage = 5
+    return '{} % of {} residents are within {}-minutes {} of {}'.format(percentage, city_select, max_time, mode_select, amenity_select)
 
 
 
