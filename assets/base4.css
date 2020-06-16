@@ -20,6 +20,7 @@ body {
     text-transform: uppercase;
     font-weight: 200;
     color: white;
+    height: 400px;
 }
 
 #ecdf, #recovery, #food_ecdf, #food_ranking {
