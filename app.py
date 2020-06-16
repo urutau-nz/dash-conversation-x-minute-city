@@ -99,10 +99,9 @@ def update_output(
 ):
     percentage = 5
     if max_time:
-        return '{} % of {} residents are within {}-minutes {} of {}'.format(percentage, city_select, max_time, mode_select, amenity_select)
+        return '{} % of {} residents are within {}-minutes {} of {}'.format(percentage, city_select.capitalize(), max_time, mode_select, amenity_select)
     else:
         return ''
-
 
 
 if __name__ == "__main__":
