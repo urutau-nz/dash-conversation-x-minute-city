@@ -254,12 +254,12 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H6(
-                                        [
-                                            "Pick your destination"
-                                        ],
-                                        className="subtitle padded",
-                                    ),
+                                    # html.H6(
+                                    #     [
+                                    #         "Pick your destination"
+                                    #     ],
+                                    #     className="subtitle padded",
+                                    # ),
                                     html.Div(
                                         [
                                             dcc.Dropdown(
