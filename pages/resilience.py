@@ -205,33 +205,6 @@ def create_layout(app):
             # page 1
             html.Div(
                 [
-                    # Row
-                    html.Div(
-                        [
-                            html.Div(
-                                [
-                                    dcc.Markdown(
-                                        ['''
-                                    Access to things in your community has a huge range of benefits. Grocery stores help people eat better,
-                                    easy access to primary schools means parents don't have the stress of the school commute and instead have
-                                    a little extra time for themselves or to spend with friends.
-
-                                    Accessible communities enhance local economies, improve physical and mental health, and strengthen the communities
-                                    resilience.
-
-                                    Some of our cities are hoping that they can use the economic stimulus to reinvent their cities and connect people
-                                    again. The shovel-ready project funding should prepare our communities for the 21st century. An accessible city is
-                                    a 21st century city.
-
-                                    This is our initial investigation into the accessibility of some of our communities.
-                                    '''],
-                                    ),
-                                ],
-                                className="twelve columns",
-                            ),
-                        ],
-                        className="row ",
-                    ),
                     # Row 4
                     html.Div(
                         [
@@ -328,48 +301,6 @@ def create_layout(app):
                                         ),
                                     ],
                                 className="twelve columns",
-                            )
-                        ],
-                        className="row ",
-                    ),
-                    # # Row 4
-                    html.Div(
-                        [
-                            html.Div(
-                                id="ecdf-container",
-                                children=[
-                                    html.H6("This graph shows what percentage of people live within a certain travel time of that amenity. The bars are a histogram. To explore where the people with the worst access are, you can select a range on this graph and it will highlight it in the map."),
-                                    dcc.Graph(id="ecdf",
-                                    config={"scrollZoom": True, "displayModeBar": True,
-                                            "modeBarButtonsToRemove":['toggleSpikelines','hoverCompareCartesian',
-                                            'pan',"zoomIn2d", "zoomOut2d","lasso2d","select2d"],
-                                    },
-                                ),
-                                ],
-                                className=" twelve columns",
-                            ),
-                        ],
-                        className="row ",
-                    ),
-                    # Row 5
-                    html.Div(
-                        [
-                            html.Div(
-                                [
-                                    html.H6(
-                                        ["Further information"],
-                                        className="subtitle padded",
-                                    ),
-                                    dcc.Markdown(
-                                        ['''
-                                    The approach to measure proximity is outlined in [Logan et al. (2019)](https://journals.sagepub.com/doi/abs/10.1177/2399808317736528).
-                                    This has been recently used to evaluate community resilience ([Logan & Guikema, 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13492))
-                                    and equitable access to green spaces ([Williams et al., 2020](https://www.sciencedirect.com/science/article/pii/S0169204619304116)).
-
-                                    Thank you to [Michael Freeman](https://www.linkedin.com/in/michael-freeman-b14a601a0/) for his coding assistance on this project.'''],
-                                    ),
-                                ],
-                                className=" twelve columns",
                             )
                         ],
                         className="row ",
