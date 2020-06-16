@@ -318,7 +318,7 @@ def create_layout(app):
                                         id="time-select",
                                         type='number',
                                         placeholder="input travel time (minutes)",
-                                        labelStyle={'display': 'inline-block'},
+                                        # labelStyle={'display': 'inline-block'},
                                     ),
                                 ],
                                 className=" six columns",
