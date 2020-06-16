@@ -249,7 +249,36 @@ def create_layout(app):
                         ],
                         className="row ",
                     ),
-                    # Row 4
+                    # Time and percent people
+                    html.Div(
+                        [
+                            html.Div(
+                                [
+                                    # html.H6(
+                                    #     [
+                                    #         "Enter a maximum travel time (minutes)"
+                                    #     ],
+                                    #     className="subtitle padded",
+                                    # ),
+                                    dcc.Input(
+                                        id="time-select",
+                                        type='number',
+                                        placeholder="Input travel time (min)",
+                                        # labelStyle={'display': 'inline-block'},
+                                    ),
+                                ],
+                                className=" six columns",
+                            ),
+                            html.Div(
+                                [
+                                    html.Div(id="output"),
+                                ],
+                                className=" six columns",
+                            ),
+                        ],
+                        className="row ",
+                    ),
+                    # Destination
                     html.Div(
                         [
                             html.Div(
@@ -300,35 +329,6 @@ def create_layout(app):
                                     ],
                                 className="twelve columns",
                             )
-                        ],
-                        className="row ",
-                    ),
-                    # Time and percent people
-                    html.Div(
-                        [
-                            html.Div(
-                                [
-                                    # html.H6(
-                                    #     [
-                                    #         "Enter a maximum travel time (minutes)"
-                                    #     ],
-                                    #     className="subtitle padded",
-                                    # ),
-                                    dcc.Input(
-                                        id="time-select",
-                                        type='number',
-                                        placeholder="Input travel time (min)",
-                                        # labelStyle={'display': 'inline-block'},
-                                    ),
-                                ],
-                                className=" six columns",
-                            ),
-                            html.Div(
-                                [
-                                    html.Div(id="output"),
-                                ],
-                                className=" six columns",
-                            ),
                         ],
                         className="row ",
                     ),
