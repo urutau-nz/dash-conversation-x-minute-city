@@ -103,7 +103,11 @@ def update_output(
     pop_within = dff_dist.loc[dff_dist.duration <= max_time, 'population'].sum()
     percentage = pop_within/total_pop*100
     if max_time:
-        return '{:.1f} % of {} residents are within a {}-minutes {} of {}'.format(percentage, city_select.capitalize(), max_time, mode_dict[mode_select], amenity_select)
+        if amenity_select=='downtown':
+            if max_time:
+                return '{:.1f} % of {} residents are within a {}-minute {} of {}'.format(percentage, city_select.capitalize(), max_time, mode_dict[mode_select], amenity_select)
+            else:
+                return '{:.1f} % of {} residents are within a {}-minute {} of a {}'.format(percentage, city_select.capitalize(), max_time, mode_dict[mode_select], amenity_select)
     else:
         return ''
 
