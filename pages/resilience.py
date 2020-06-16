@@ -201,8 +201,6 @@ def create_layout(app):
     # Page layouts
     return html.Div(
         [
-            html.Div([Header(app)]),
-            # page 1
             html.Div(
                 [
                     # Row 4
