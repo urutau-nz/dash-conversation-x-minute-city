@@ -16,8 +16,8 @@ body {
   width: 210mm;
   /* min-height: 300mm; */
   padding: 0mm;
-  margin: 10mm auto;
-  border-radius: 5px;
+  margin: 0mm auto;
+  border-radius: 0px;
   background: white;
   box-shadow: 0 0 10px lightgrey;
 }
@@ -34,7 +34,8 @@ body {
 }
 
 .sub_page {
-  padding: 1cm;
+  padding: 0cm;
+
   /* min-height: 300mm; */
 }
 
@@ -45,7 +46,7 @@ body {
 @media print {
   html,
   body {
-    width: 210mm;
+    width: 600px;
     height: 297mm;
   }
   .page {
@@ -247,7 +248,7 @@ a:active {
 .rowrow {
   margin: auto;
   text-align: center;
-  width: 97%;
+  width: 600px;
 }
 
 .rowrow2 {
