@@ -13,7 +13,7 @@ body {
 }
 .page {
   position: relative;
-  width: 210mm;
+  width: 583px;
   /* min-height: 300mm; */
   padding: 0mm;
   margin: 0mm auto;
@@ -46,7 +46,7 @@ body {
 @media print {
   html,
   body {
-    width: 600px;
+    width: 583px;
     height: 297mm;
   }
   .page {

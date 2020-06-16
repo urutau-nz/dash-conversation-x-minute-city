@@ -208,12 +208,12 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H6(
-                                        [
-                                            "Pick your city"
-                                        ],
-                                        className="subtitle padded",
-                                    ),
+                                    # html.H6(
+                                    #     [
+                                    #         "Pick your city"
+                                    #     ],
+                                    #     className="subtitle padded",
+                                    # ),
                                     dcc.RadioItems(
                                         id="city-select",
                                         options=[
@@ -228,12 +228,12 @@ def create_layout(app):
                             ),
                             html.Div(
                                 [
-                                    html.H6(
-                                        [
-                                            "Pick your transport mode"
-                                        ],
-                                        className="subtitle padded",
-                                    ),
+                                    # html.H6(
+                                    #     [
+                                    #         "Pick your transport mode"
+                                    #     ],
+                                    #     className="subtitle padded",
+                                    # ),
                                     dcc.RadioItems(
                                         id="mode-select",
                                         options=[
@@ -286,7 +286,7 @@ def create_layout(app):
 
                                 id="map-container",
                                     children=[
-                                        html.H6("This map shows how long it would take for people to get to their nearest amenity."),
+                                        # html.H6("This map shows how long it would take for people to get to their nearest amenity."),
                                         dcc.Graph(
                                             id="map",
                                             figure={
@@ -308,16 +308,16 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H6(
-                                        [
-                                            "Enter a maximum travel time (minutes)"
-                                        ],
-                                        className="subtitle padded",
-                                    ),
+                                    # html.H6(
+                                    #     [
+                                    #         "Enter a maximum travel time (minutes)"
+                                    #     ],
+                                    #     className="subtitle padded",
+                                    # ),
                                     dcc.Input(
                                         id="time-select",
                                         type='number',
-                                        placeholder="input travel time (minutes)",
+                                        placeholder="Input travel time (min)",
                                         # labelStyle={'display': 'inline-block'},
                                     ),
                                 ],
