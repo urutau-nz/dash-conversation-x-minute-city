@@ -1,331 +1,373 @@
 ,index,id,dest_type,name,lon,lat,city
-0,0.0,0,supermarket,Pak'nSave Clarence St,175.2827800170001,-37.79556360299995,hamilton
-1,1.0,1,supermarket,Countdown St James,175.273060641,-37.73246954899997,hamilton
-2,2.0,2,supermarket,New World Rototuna,175.2742562350001,-37.72807727299994,hamilton
-3,3.0,3,supermarket,New World Hillcrest,175.3223266990001,-37.80194772799996,hamilton
-4,4.0,4,supermarket,Countdown,175.2453450370001,-37.79648246999994,hamilton
-5,5.0,5,supermarket,Countdown,175.2376872080001,-37.78154492299996,hamilton
-6,6.0,6,supermarket,Countdown Te Rapa,175.234487251,-37.74629884399997,hamilton
-7,7.0,7,supermarket,Pak'nSave Mill Street,175.2728071990001,-37.77991450499997,hamilton
-8,8.0,8,supermarket,Countdown Bridge Street,175.2870485560001,-37.79380709599997,hamilton
-9,9.0,9,supermarket,NewSave,175.2758916160001,-37.78636178799997,hamilton
-10,10.0,10,supermarket,Countdown,175.2738673780001,-37.78230141599994,hamilton
-11,11.0,11,supermarket,Four Square Heaphy Terrace,175.2830589550001,-37.77119806799993,hamilton
-12,12.0,12,supermarket,New World Te Rapa,175.239712884,-37.75330461999994,hamilton
-13,13.0,13,supermarket,Countdown Claudelands,175.2992442770001,-37.77850884399993,hamilton
-14,14.0,14,supermarket,New World,175.2875661100001,-37.82271589399994,hamilton
-15,15.0,15,supermarket,Countdown,175.278755,-37.75011809999995,hamilton
-16,16.0,16,supermarket,Super Value Supermarket,175.2528349,-37.73817549999995,hamilton
-17,17.0,17,supermarket,SuperValue Borman Village,175.2419288000001,-37.71943479999993,hamilton
-18,18.0,18,police_station,Hamilton Central Police Station,175.2877367360001,-37.79296419099995,hamilton
-19,19.0,19,police_station,Hamilton East Police Station,175.3072688760001,-37.78993508299993,hamilton
-20,20.0,20,police_station,West Hamilton Community Policing Centre,175.24533037,-37.79484133099993,hamilton
-21,21.0,21,police_station,Hamilton North Community Poilce Station,175.2539897,-37.73831709999996,hamilton
-22,22.0,22,hospital,Waikato Hospital,175.2828548420001,-37.80515369899996,hamilton
-23,23.0,23,hospital,Hospice Waikato,175.3168419780001,-37.80316840599994,hamilton
-24,24.0,24,hospital,Saint Joans Hospital,175.2890534260001,-37.76539822199993,hamilton
-25,25.0,25,hospital,Southern Cross Hospital,175.2903718790001,-37.78914619599993,hamilton
-26,26.0,26,hospital,Braemar Hospital,175.2790718680001,-37.80788878899995,hamilton
-27,27.0,27,fire_station,Hamilton Fire Station,175.2826236860001,-37.79106587999996,hamilton
-28,28.0,28,fire_station,Chartwell Fire Station,175.288885476,-37.75481749699998,hamilton
-29,29.0,29,fire_station,Te Rapa Fire Station,175.2284489000001,-37.75289979999997,hamilton
-30,30.0,30,library,Central Library,175.2825469160001,-37.78812139399997,hamilton
-31,31.0,31,library,Glenview LIbrary,175.2878652800001,-37.82294537899998,hamilton
-32,32.0,32,library,St Andrews Library,175.2585611000001,-37.75775459999994,hamilton
-33,33.0,33,library,Chartwell Library,175.278308086,-37.75155206899996,hamilton
-34,34.0,34,library,"Education Library, University of Waikato",175.3199909000001,-37.78620909999995,hamilton
-35,35.0,35,library,Hillcrest Library,175.3204202000001,-37.79536419999994,hamilton
-36,36.0,36,library,Dinsdale Library,175.2460800000001,-37.79450389999994,hamilton
-37,37.0,37,library,Wendell B Mendenhall Library,175.2274834000001,-37.82082119999995,hamilton
-38,38.0,38,library,Campus Library,175.3177915000001,-37.78749649999997,hamilton
-39,39.0,39,medical_clinic,Hamilton East Medical Centre,175.292912912,-37.78958412899993,hamilton
-40,40.0,40,medical_clinic,Redicare Medical Centre,175.2733564670001,-37.78358823299993,hamilton
-41,41.0,41,medical_clinic,Victoria Clinic,175.2787561560001,-37.78203732499998,hamilton
-42,42.0,42,medical_clinic,Tui Medical,175.2870699000001,-37.76173489999996,hamilton
-43,43.0,43,medical_clinic,Anglesea Clinic Accident & Medical,175.2833056000001,-37.79236319999995,hamilton
-44,44.0,44,medical_clinic,Hamilton Lake Clinic,175.2810695000001,-37.79611739999996,hamilton
-45,45.0,45,medical_clinic,Dinsdale Medical Centre,175.2469561,-37.79541479999995,hamilton
-46,46.0,46,medical_clinic,Masters Medical Clinic,175.3202249010001,-37.79561539899998,hamilton
-47,47.0,47,medical_clinic,Five Cross Roads Medical Centre,175.2925602380001,-37.77122473499998,hamilton
-48,48.0,48,medical_clinic,Fairfield Medical Centre,175.2825406000001,-37.77134539999997,hamilton
-49,49.0,49,medical_clinic,South City Health,175.2713546450001,-37.80868218799998,hamilton
-50,50.0,50,medical_clinic,Glenview Medical Centre,175.2829175730001,-37.81683204399997,hamilton
-51,51.0,51,medical_clinic,Parkwood Medical Centre,175.2940869500001,-37.74920334999996,hamilton
-52,52.0,52,medical_clinic,Tui Medical Centre,175.2746593000001,-37.72926649999994,hamilton
-53,53.0,53,medical_clinic,Flagstaff Medical Centre,175.2545393,-37.73869949999994,hamilton
-54,54.0,54,medical_clinic,Hillcrest Medical Centre,175.316454,-37.79895339999996,hamilton
-55,55.0,55,medical_clinic,River Road Family Practice,175.2704136000001,-37.77018039999996,hamilton
-56,56.0,56,medical_clinic,Westend Health Centre,175.2468805000001,-37.79660329999996,hamilton
-57,57.0,57,medical_clinic,Tui Medical,175.2466455000001,-37.75768179999994,hamilton
-58,58.0,58,downtown,downtown,175.2793,-37.787,hamilton
-59,59.0,59,primary_school,Te Totara Primary School,175.266642,-37.719711,hamilton
-60,60.0,60,primary_school,Te Ao MÄrama School,175.2397,-37.720389,hamilton
-61,61.0,61,primary_school,TKKM o Toku Mapihi Maurea,175.324237,-37.788582,hamilton
-62,62.0,62,primary_school,Aberdeen School,175.243254,-37.788994,hamilton
-63,63.0,63,primary_school,Bankwood School,175.276101,-37.754904,hamilton
-64,64.0,64,primary_school,Deanwell School,175.275621,-37.819873,hamilton
-65,65.0,65,primary_school,Fairfield Primary School,175.284079,-37.764101,hamilton
-66,66.0,66,primary_school,TKKM o Te Ara Rima,175.29569,-37.771217,hamilton
-67,67.0,67,primary_school,Forest Lake School,175.255939,-37.770329,hamilton
-68,68.0,68,primary_school,Frankton School,175.249638,-37.793245,hamilton
-69,69.0,69,primary_school,Glenview School (Hamilton),175.290755,-37.816343,hamilton
-70,70.0,70,primary_school,Hamilton East School,175.290498,-37.787414,hamilton
-71,71.0,71,primary_school,Hamilton West School,175.2833,-37.798955,hamilton
-72,72.0,72,primary_school,Hillcrest Normal School,175.321223,-37.801117,hamilton
-73,73.0,73,primary_school,Hukanui School,175.278925,-37.748144,hamilton
-74,74.0,74,primary_school,Insoll Avenue School,175.296347,-37.76184600000001,hamilton
-75,75.0,75,primary_school,Knighton Normal School,175.310073,-37.79304699999999,hamilton
-76,76.0,76,primary_school,Melville Primary School,175.283493,-37.814231,hamilton
-77,77.0,77,primary_school,Nawton School,175.241734,-37.779875,hamilton
-78,78.0,78,primary_school,Pukete School,175.240436,-37.745144,hamilton
-79,79.0,79,primary_school,Rhode Street School,175.251791,-37.799051,hamilton
-80,80.0,80,primary_school,Silverdale Normal School,175.329298,-37.79287100000001,hamilton
-81,81.0,81,primary_school,St Columba's Catholic School (Frankton),175.250882,-37.786756,hamilton
-82,82.0,82,primary_school,St Joseph's Catholic School (Fairfield),175.274387,-37.76668,hamilton
-83,83.0,83,primary_school,St Peter Chanel Catholic School (Te Rapa),175.253234,-37.764273,hamilton
-84,84.0,84,primary_school,St Pius X Catholic School (Melville),175.288082,-37.813154,hamilton
-85,85.0,85,primary_school,Te Rapa School,175.236039,-37.739391,hamilton
-86,86.0,86,primary_school,Vardon School,175.256974,-37.76335,hamilton
-87,87.0,87,primary_school,Whitiora School,175.270037,-37.779587,hamilton
-88,88.0,88,primary_school,Woodstock School,175.273488,-37.768749,hamilton
-89,89.0,89,primary_school,Marian Catholic School (Hamilton),175.295006,-37.790836,hamilton
-90,90.0,90,primary_school,Crawshaw School,175.232277,-37.773937,hamilton
-91,91.0,91,primary_school,Southwell School,175.297034,-37.774857,hamilton
-92,92.0,92,primary_school,Endeavour School,175.253714,-37.732246,hamilton
-93,93.0,93,primary_school,Rototuna Primary School,175.276572,-37.732335,hamilton
-0,,0,hospital,Burwood Hospital,172.6849383875119,-43.48031835,christchurch
-1,,1,hospital,Christchurch Hospital,172.625237,-43.5342631,christchurch
-2,,2,hospital,Hillmorton Hospital,172.5964978,-43.5512624,christchurch
-3,,3,hospital,Rangiora Health Hub,172.592271,-43.2897332,christchurch
-4,,4,hospital,Southern Cross Hospital,172.6452759,-43.5209353,christchurch
-5,,5,hospital,St George Hospital,172.61816,-43.5107722,christchurch
-6,,6,medical_clinic,Riccarton Clinic,172.5717414,-43.5317048,christchurch
-7,,7,medical_clinic,Amyes Clinic,172.5258268,-43.5455576,christchurch
-8,,8,medical_clinic,Barrington Clinic,172.6222434,-43.5557545,christchurch
-9,,9,medical_clinic,Belfast Clinic,172.6333568,-43.4451885,christchurch
-10,,10,medical_clinic,Belfast Doctors,172.6329206,-43.4446935,christchurch
-11,,11,medical_clinic,Burnside Clinic,172.578732,-43.496507,christchurch
-12,,12,medical_clinic,South Health Centre,172.6366576,-43.556255,christchurch
-13,,13,medical_clinic,Cranford Medical,172.634697,-43.5050039,christchurch
-14,,14,medical_clinic,Doctors on Cashel,172.6283266514674,-43.5328905,christchurch
-15,,15,medical_clinic,Durham Health,172.633339,-43.5339632,christchurch
-16,,16,medical_clinic,East Health Care,172.7011477,-43.5165547,christchurch
-17,,17,medical_clinic,Etu Pasifika Health Clinic,172.6304421,-43.5383998,christchurch
-18,,18,medical_clinic,Fendalton Medical Center,172.5870907,-43.5177438,christchurch
-19,,19,medical_clinic,Ferry Rd Medical,172.6603145,-43.5410365,christchurch
-20,,20,medical_clinic,Ferrymean Medical Center,172.6979022,-43.5560835,christchurch
-21,,21,medical_clinic,Forte Health Hospital,172.6378125996501,-43.52629930000001,christchurch
-22,,22,medical_clinic,Greers Rd Medical,172.5866888,-43.4986982,christchurch
-23,,23,medical_clinic,Halswellhealth,172.5682302,-43.5743199,christchurch
-24,,24,medical_clinic,Harewood Medical,172.5951951,-43.4911595,christchurch
-25,,25,medical_clinic,Hei hei Health Cnetre,172.5213776,-43.535801,christchurch
-26,,26,medical_clinic,High Street Health,172.6051852,-43.5292126,christchurch
-27,,27,medical_clinic,Hillmed Health,172.5942159,-43.554116,christchurch
-28,,28,medical_clinic,Inspire Health,172.5717331,-43.5156762,christchurch
-29,,29,medical_clinic,Kaiapoi Medical St,172.6516679,-43.3813729,christchurch
-30,,30,medical_clinic,Kingdom Clinic,172.6555045,-43.532948,christchurch
-31,,31,medical_clinic,Lyttelton Health Centre,172.7226800908843,-43.6034898,christchurch
-32,,32,medical_clinic,Main North Rd medical,172.6130068,-43.4913279,christchurch
-33,,33,medical_clinic,Mansfield Health,172.6214676,-43.511509,christchurch
-34,,34,medical_clinic,Medical Corner,172.6384908,-43.5335281,christchurch
-35,,35,medical_clinic,Menz Medical,172.638719,-43.5264628,christchurch
-36,,36,medical_clinic,Moorhouse Medical,172.63971,-43.5407195,christchurch
-37,,37,medical_clinic,Morris Doctor,172.6353902,-43.5200395,christchurch
-38,,38,medical_clinic,Mt Pleasant Medical,172.7222863,-43.5579405,christchurch
-39,,39,medical_clinic,North Avon Medical,172.6540828,-43.5177517,christchurch
-40,,40,medical_clinic,Papanui Medical,172.6111685,-43.5002884,christchurch
-41,,41,medical_clinic,Parklands Medical,172.6954021,-43.4799052,christchurch
-42,,42,medical_clinic,Pegasus Medical,172.6907544,-43.5160259,christchurch
-43,,43,medical_clinic,Piki Te Ora Health,172.6713737,-43.5321657,christchurch
-44,,44,medical_clinic,ProMed Doctors,172.6378649,-43.5153259,christchurch
-45,,45,medical_clinic,QEII Medical Centre,172.7111763,-43.4949825,christchurch
-46,,46,medical_clinic,Rakaia Medical,172.0197727,-43.7548229,christchurch
-47,,47,medical_clinic,Rangiora Family Doctors,172.5966628,-43.3085388,christchurch
-48,,48,medical_clinic,Redcliffs Medical,172.7384394065069,-43.5619666,christchurch
-49,,49,medical_clinic,St Martins Medical,172.6517149,-43.551043,christchurch
-50,,50,medical_clinic,Selwyn Village Healthcare,171.9662257,-43.4820583,christchurch
-51,,51,medical_clinic,Shirley Medical,172.6625637,-43.5070981,christchurch
-52,,52,medical_clinic,Southside Health Trust,172.6003453,-43.3164874,christchurch
-53,,53,medical_clinic,Te Rawhiti Family Care,172.7012846,-43.5105714,christchurch
-54,,54,medical_clinic,The Christchurch Doctors,172.636783,-43.5213677,christchurch
-55,,55,medical_clinic,Village Health,172.6000138,-43.550754,christchurch
-56,,56,medical_clinic,Waikari Health,172.6831121,-42.966537,christchurch
-57,,57,medical_clinic,Waimairi Rd Medical,172.6876746,-43.5162306,christchurch
-58,,58,medical_clinic,White Cross Health,172.7275867,-43.5090407,christchurch
-59,,59,medical_clinic,Wigram Health,172.5569272,-43.5519662,christchurch
-60,,60,medical_clinic,Woodend Medical,172.7355978,-43.5591583,christchurch
-61,,61,medical_clinic,Yaldhurst Family Doctors,172.5193794,-43.5158154,christchurch
-62,,62,police_station,Papanui Police,172.6093154,-43.4952129,christchurch
-63,,63,police_station,Christchurch Central Police,172.6348646,-43.5344345,christchurch
-64,,64,police_station,Sydenham Police,172.6371284,-43.556896,christchurch
-65,,65,police_station,Hornby Police,172.5268065,-43.5444915,christchurch
-66,,66,police_station,New Brighton Police,172.7241578,-43.508626,christchurch
-67,,67,police_station,Christchurch Airport Police,172.5422197,-43.4985849,christchurch
-68,,68,police_station,Burwood Police,172.7060013,-43.4816393,christchurch
-69,,69,police_station,Kaiapoi Police,172.6588209,-43.3815752,christchurch
-70,,70,police_station,Burnham Police,172.6436643,-43.5579633,christchurch
-71,,71,police_station,Tai Tapu Police,172.5268065,-43.5444915,christchurch
-72,,72,police_station,Lyttelton Police,172.7234411407451,-43.6030864,christchurch
-73,,73,police_station,Rangiora Police,172.5899178,-43.304272,christchurch
-74,,74,fire_station,Spreydon Fire Station,172.6198742,-43.5534692,christchurch
-75,,75,fire_station,Christchurch Fire Station,172.6441683742707,-43.526785,christchurch
-76,,76,fire_station,Harewood Fire Station,172.5657746,-43.4888915,christchurch
-77,,77,fire_station,Wigram Fire Station,172.5312794,-43.5601565,christchurch
-78,,78,fire_station,Redwood Fire Station,172.6024123,-43.4675686,christchurch
-79,,79,fire_station,Woolston Fire Station,172.6913042,-43.5540299,christchurch
-80,,80,fire_station,ANZAC Fire Station,172.6909776,-43.5126336,christchurch
-81,,81,fire_station,Lincoln Fire Station,172.4866046,-43.6390595,christchurch
-82,,82,fire_station,Rolleston Fire Station,172.3770423,-43.5922697,christchurch
-83,,83,fire_station,Governors Bay Fire Station,172.6464425,-43.6269266,christchurch
-84,,84,fire_station,Kaiapoi Fire Station,172.6542083,-43.3820055,christchurch
-85,,85,fire_station,Lyttelton Fire Station,172.7187286,-43.6019467,christchurch
-86,,86,fire_station,Sumner Fire Station,172.7614099,-43.5725232,christchurch
-87,,87,fire_station,Diamond Harbour Fire Station,172.7305453,-43.6281526,christchurch
-88,,88,fire_station,Woodend Fire Station,172.6759292,-43.3234224,christchurch
-89,,89,fire_station,Rangiora Fire Station,172.594508,-43.3049935,christchurch
-90,,90,fire_station,Brooklands Fire Station,172.6960113,-43.3996132,christchurch
-91,,91,fire_station,Kirwee Fire Station,172.2125161,-43.4988985,christchurch
-92,,92,primary_school,The Cathedral Grammar School,172.628547,-43.528053,christchurch
-93,,93,primary_school,Knights Stream School- Mingimingi Hautoa,172.537925,-43.570857,christchurch
-94,,94,primary_school,Seven Oaks School,172.54845,-43.58266500000001,christchurch
-95,,95,primary_school,Te Waka Unua School,172.672631,-43.545666,christchurch
-96,,96,primary_school,Waitakiri Primary School,172.683836,-43.488839,christchurch
-97,,97,primary_school,Lyttelton Primary School,172.72316,-43.602339,christchurch
-98,,98,primary_school,R?whiti School,172.7177,-43.4961,christchurch
-99,,99,primary_school,St Francis of Assisi Catholic School,172.639385,-43.499787,christchurch
-100,,100,primary_school,Nova Montessori School,172.724985,-43.510655,christchurch
-101,,101,primary_school,Jean Seabrook Memorial School,172.654818,-43.520217,christchurch
-102,,102,primary_school,Sacred Heart School (Christchurch),172.612749,-43.546061,christchurch
-103,,103,primary_school,Addington Te Kura Taumatua,172.618232,-43.547853,christchurch
-104,,104,primary_school,Avonhead School,172.559489,-43.524097,christchurch
-105,,105,primary_school,Bamford School,172.687446,-43.554154,christchurch
-106,,106,primary_school,Banks Avenue School,172.668103,-43.513246,christchurch
-107,,107,primary_school,Beckenham Te Kura o P?roto,172.64548,-43.562872,christchurch
-108,,108,primary_school,Belfast School,172.627294,-43.453613,christchurch
-109,,109,primary_school,Bishopdale School,172.59624,-43.486644,christchurch
-110,,110,primary_school,Bromley School,172.687047,-43.536552,christchurch
-111,,111,primary_school,Burnside Primary School,172.581774,-43.512733,christchurch
-112,,112,primary_school,Cashmere Primary Te Pae Kerer?,172.632538,-43.576413,christchurch
-113,,113,primary_school,Christ The King School (Burnside),172.576628,-43.509149,christchurch
-114,,114,primary_school,Christchurch East School,172.64835,-43.529642,christchurch
-115,,115,primary_school,Cotswold School,172.58717,-43.482453,christchurch
-116,,116,primary_school,Diamond Harbour School,172.726697,-43.629957,christchurch
-117,,117,primary_school,Duvauchelle School,172.932037,-43.749666,christchurch
-118,,118,primary_school,Elmwood Normal School,172.614747,-43.513809,christchurch
-119,,119,primary_school,Fendalton Open Air School,172.59114,-43.517076,christchurch
-120,,120,primary_school,Gilberthorpe School,172.521336,-43.529733,christchurch
-121,,121,primary_school,Governors Bay School,172.649982,-43.623981,christchurch
-122,,122,primary_school,Halswell School,172.569373,-43.59065,christchurch
-123,,123,primary_school,Harewood School,172.559438,-43.479767,christchurch
-124,,124,primary_school,Heathcote Valley School,172.70887,-43.579871,christchurch
-125,,125,primary_school,Hoon Hay School,172.606589,-43.564861,christchurch
-126,,126,primary_school,Hornby Primary School,172.522624,-43.538702,christchurch
-127,,127,primary_school,Ilam School,172.579687,-43.526408,christchurch
-128,,128,primary_school,Isleworth School,172.582115,-43.493102,christchurch
-129,,129,primary_school,Linwood Avenue School,172.674872,-43.535279,christchurch
-130,,130,primary_school,Wh?tau School,172.675784,-43.524843,christchurch
-131,,131,primary_school,Little River School,172.795478,-43.763792,christchurch
-132,,132,primary_school,Mairehau Primary School,172.641407,-43.498705,christchurch
-133,,133,primary_school,Marshland School,172.66474,-43.472023,christchurch
-134,,134,primary_school,Merrin School,172.55857,-43.510492,christchurch
-135,,135,primary_school,Mt Pleasant School,172.715918,-43.562443,christchurch
-136,,136,primary_school,New Brighton Catholic School (Chch),172.723715,-43.505937,christchurch
-137,,137,primary_school,Northcote School (Christchurch),172.614001,-43.47936,christchurch
-138,,138,primary_school,Oaklands School,172.564642,-43.571578,christchurch
-139,,139,primary_school,Okains Bay School,173.042728,-43.708867,christchurch
-140,,140,primary_school,Opawa School,172.664481,-43.555657,christchurch
-141,,141,primary_school,Our Lady of the Assumption School (Chch),172.607072,-43.564783,christchurch
-142,,142,primary_school,Our Lady of Victories,172.559117,-43.53621,christchurch
-143,,143,primary_school,Ouruhia Model School,172.660379,-43.444592,christchurch
-144,,144,primary_school,Papanui School,172.619719,-43.48802,christchurch
-145,,145,primary_school,Paparoa Street School,172.619578,-43.49965,christchurch
-146,,146,primary_school,Parkview P?rua,172.705623,-43.480595,christchurch
-147,,147,primary_school,Queenspark School,172.695976,-43.473153,christchurch
-148,,148,primary_school,Redcliffs School,172.758806,-43.579766,christchurch
-149,,149,primary_school,Redwood School (Christchurch),172.621946,-43.473601,christchurch
-150,,150,primary_school,Riccarton School,172.564135,-43.533358,christchurch
-151,,151,primary_school,Te K?manawa Rowley School,172.58776,-43.562247,christchurch
-152,,152,primary_school,Te Ara Maurea Roydvale School,172.56314,-43.49448,christchurch
-153,,153,primary_school,Russley School,172.544696,-43.517891,christchurch
-154,,154,primary_school,Shirley Primary School,172.653144,-43.507883,christchurch
-155,,155,primary_school,Wigram Primary School - Te Piki K?hu,172.551909,-43.55422,christchurch
-156,,156,primary_school,Somerfield Te Kura Wairepo,172.628529,-43.56164,christchurch
-157,,157,primary_school,South Hornby School,172.529039,-43.547117,christchurch
-158,,158,primary_school,South New Brighton School,172.733519,-43.526215,christchurch
-159,,159,primary_school,Spreydon School,172.597919,-43.55757,christchurch
-160,,160,primary_school,St Albans Catholic School (Christchurch),172.629087,-43.507126,christchurch
-161,,161,primary_school,St Albans School,172.63438,-43.50877,christchurch
-162,,162,primary_school,St Anne's School (Woolston),172.685572,-43.550378,christchurch
-163,,163,primary_school,St Bernadette's School (Hornby),172.525337,-43.533479,christchurch
-164,,164,primary_school,St James School (Aranui),172.704852,-43.511725,christchurch
-165,,165,primary_school,St Joseph's School (Papanui),172.614436,-43.488669,christchurch
-166,,166,primary_school,St Martins School,172.657224,-43.565427,christchurch
-167,,167,primary_school,St Mary's School (Christchurch),172.639253,-43.523222,christchurch
-168,,168,primary_school,St Patrick's School (Bryndwr),172.604041,-43.511234,christchurch
-169,,169,primary_school,St Peter's School (Beckenham),172.63769,-43.559761,christchurch
-170,,170,primary_school,St Teresa's School (Riccarton),172.592132,-43.529753,christchurch
-171,,171,primary_school,Our Lady Star of the Sea School (Christchurch),172.762534,-43.574863,christchurch
-172,,172,primary_school,Sumner School,172.75962,-43.573093,christchurch
-173,,173,primary_school,Templeton School,172.472353,-43.550157,christchurch
-174,,174,primary_school,Thorrington School,172.63656,-43.5663,christchurch
-175,,175,primary_school,Waimairi School,172.605274,-43.504209,christchurch
-176,,176,primary_school,Wairakei School (Christchurch),172.588274,-43.500162,christchurch
-177,,177,primary_school,Waltham School,172.648604,-43.548984,christchurch
-178,,178,primary_school,Te Ara Koropiko West Spreydon School,172.611289,-43.559629,christchurch
-179,,179,primary_school,Westburn School,172.570879,-43.512142,christchurch
-180,,180,primary_school,Wharenui School,172.596734,-43.536306,christchurch
-181,,181,primary_school,Yaldhurst Model School,172.502181,-43.510189,christchurch
-182,,182,primary_school,Medbury Preparatory School,172.589106,-43.521884,christchurch
-183,,183,primary_school,St Mark's School (Christchurch),172.659298,-43.552882,christchurch
-184,,184,primary_school,St Michael's Church School,172.633057,-43.53477,christchurch
-185,,185,primary_school,Selwyn House School,172.623003,-43.516638,christchurch
-186,,186,primary_school,Tamariki School,172.68923,-43.546474,christchurch
-187,,187,supermarket,New World,172.5659203170001,-43.58063685799993,christchurch
-188,,188,supermarket,Edgeware FreshChoice,172.6367287290001,-43.51316108099996,christchurch
-189,,189,supermarket,Countdown,172.573047466,-43.53274002799998,christchurch
-190,,190,supermarket,Countdown Sydenham,172.6355982860001,-43.55331378099999,christchurch
-191,,191,supermarket,SuperValue,172.721515368,-43.60288086599996,christchurch
-192,,192,supermarket,New World Stanmore,172.6569832160001,-43.52016129399993,christchurch
-193,,193,supermarket,Sumner Supervalue,172.7599983890001,-43.56943269799996,christchurch
-194,,194,supermarket,Countdown,172.7025114,-43.55682684999994,christchurch
-195,,195,supermarket,Pak'nSave Moorhouse Avenue,172.6383239190001,-43.53900826999995,christchurch
-196,,196,supermarket,Countdown,172.641741665,-43.53874130399998,christchurch
-197,,197,supermarket,Countdown,172.7299484650001,-43.50676606199994,christchurch
-198,,198,supermarket,Supervalue,172.6574869210001,-43.53041973599994,christchurch
-199,,199,supermarket,Countdown,172.6250142470001,-43.45900317399997,christchurch
-200,,200,supermarket,New World,172.622390384,-43.45963501599994,christchurch
-201,,201,supermarket,New World,172.587213697,-43.48845187699993,christchurch
-202,,202,supermarket,Countdown,172.6117040920001,-43.49152959399999,christchurch
-203,,203,supermarket,Pak'nSave,172.6089146390001,-43.49285848299996,christchurch
-204,,204,supermarket,New World,172.654789315,-43.55753906399997,christchurch
-205,,205,supermarket,New World Lincoln,172.473712093,-43.64225792499997,christchurch
-206,,206,supermarket,Fresh Choice,172.706094686,-43.48134612199993,christchurch
-207,,207,supermarket,New World Ilam,172.5700589180001,-43.52595040699998,christchurch
-208,,208,supermarket,Countdown,172.38667594,-43.59418265599993,christchurch
-209,,209,supermarket,Countdown,172.5269712,-43.54274885899997,christchurch
-210,,210,supermarket,New World,172.739007526,-43.56242398299997,christchurch
-211,,211,supermarket,Reawood Fresh,172.5552277310001,-43.47779970399995,christchurch
-212,,212,supermarket,Pak'nSave,172.6932267420001,-43.51282276199998,christchurch
-213,,213,supermarket,New World,172.6620093940001,-43.47515957799993,christchurch
-214,,214,supermarket,Countdown,172.5477124370001,-43.48986068699998,christchurch
-215,,215,supermarket,New World,172.6331341110001,-43.53870921199996,christchurch
-216,,216,supermarket,Fresh Choice,172.6205318000001,-43.55570829999994,christchurch
-217,,217,supermarket,PAK'nSAVE,172.5233262,-43.54264349999994,christchurch
-218,,218,supermarket,Big Chicken Supermarket,172.5802564000001,-43.53516049999996,christchurch
-219,,219,supermarket,SuperValue,172.5902803,-43.50951299999997,christchurch
-220,,220,supermarket,New World,172.588375,-43.51793189999995,christchurch
-221,,221,supermarket,Raeward Fresh,172.6053454,-43.54010549999998,christchurch
-222,,222,supermarket,Countdown,172.6645278000001,-43.50565709999995,christchurch
-223,,223,supermarket,New World Rolleston,172.3824238000001,-43.59676269999994,christchurch
-224,,224,supermarket,Fresh Choice Supermarket,172.6213802000001,-43.51284539999995,christchurch
-225,,225,supermarket,New World,172.5575428000001,-43.55269549999997,christchurch
-226,,226,supermarket,Pak'nSave,172.5961987000001,-43.53109439999997,christchurch
-227,,227,supermarket,Countdown,172.5572106000001,-43.51118659999997,christchurch
-228,,228,supermarket,New World,172.5701643000001,-43.52588369999995,christchurch
-229,,229,supermarket,Countdown,172.6755846000001,-43.53245069999997,christchurch
-230,,230,supermarket,Fresh Choice City Market,172.6378384000001,-43.53408429999996,christchurch
-231,,231,supermarket,New World,172.5874903,-43.48856449999994,christchurch
-232,,232,supermarket,Four Square,172.3704124000001,-43.52323509999997,christchurch
-233,,233,supermarket,New World,172.6840966000001,-43.54903779999995,christchurch
-234,,234,supermarket,FreshChoice,172.6365852,-43.51329619999996,christchurch
-235,,235,downtown,downtown,172.633386,-43.53296,christchurch
+0,0,0,supermarket,Pak'nSave Clarence St,175.2827800170001,-37.79556360299995,hamilton
+1,1,1,supermarket,Countdown St James,175.273060641,-37.73246954899997,hamilton
+2,2,2,supermarket,New World Rototuna,175.2742562350001,-37.72807727299994,hamilton
+3,3,3,supermarket,New World Hillcrest,175.3223266990001,-37.80194772799996,hamilton
+4,4,4,supermarket,Countdown,175.2453450370001,-37.79648246999994,hamilton
+5,5,5,supermarket,Countdown,175.2376872080001,-37.78154492299996,hamilton
+6,6,6,supermarket,Countdown Te Rapa,175.234487251,-37.74629884399997,hamilton
+7,7,7,supermarket,Pak'nSave Mill Street,175.2728071990001,-37.77991450499997,hamilton
+8,8,8,supermarket,Countdown Bridge Street,175.2870485560001,-37.79380709599997,hamilton
+9,9,9,supermarket,NewSave,175.2758916160001,-37.78636178799997,hamilton
+10,10,10,supermarket,Countdown,175.2738673780001,-37.78230141599994,hamilton
+11,11,11,supermarket,Four Square Heaphy Terrace,175.2830589550001,-37.77119806799993,hamilton
+12,12,12,supermarket,New World Te Rapa,175.239712884,-37.75330461999994,hamilton
+13,13,13,supermarket,Countdown Claudelands,175.2992442770001,-37.77850884399993,hamilton
+14,14,14,supermarket,New World,175.2875661100001,-37.82271589399994,hamilton
+15,15,15,supermarket,Countdown,175.278755,-37.75011809999995,hamilton
+16,16,16,supermarket,Super Value Supermarket,175.2528349,-37.73817549999995,hamilton
+17,17,17,supermarket,SuperValue Borman Village,175.2419288000001,-37.71943479999993,hamilton
+18,18,18,police_station,Hamilton Central Police Station,175.2877367360001,-37.79296419099995,hamilton
+19,19,19,police_station,Hamilton East Police Station,175.3072688760001,-37.78993508299993,hamilton
+20,20,20,police_station,West Hamilton Community Policing Centre,175.24533037,-37.79484133099993,hamilton
+21,21,21,police_station,Hamilton North Community Poilce Station,175.2539897,-37.73831709999996,hamilton
+22,22,22,hospital,Waikato Hospital,175.2828548420001,-37.80515369899996,hamilton
+23,23,23,hospital,Hospice Waikato,175.3168419780001,-37.80316840599994,hamilton
+24,24,24,hospital,Saint Joans Hospital,175.2890534260001,-37.76539822199993,hamilton
+25,25,25,hospital,Southern Cross Hospital,175.2903718790001,-37.78914619599993,hamilton
+26,26,26,hospital,Braemar Hospital,175.2790718680001,-37.80788878899995,hamilton
+27,27,27,fire_station,Hamilton Fire Station,175.2826236860001,-37.79106587999996,hamilton
+28,28,28,fire_station,Chartwell Fire Station,175.288885476,-37.75481749699998,hamilton
+29,29,29,fire_station,Te Rapa Fire Station,175.2284489000001,-37.75289979999997,hamilton
+30,30,30,library,Central Library,175.2825469160001,-37.78812139399997,hamilton
+31,31,31,library,Glenview LIbrary,175.2878652800001,-37.82294537899998,hamilton
+32,32,32,library,St Andrews Library,175.2585611000001,-37.75775459999994,hamilton
+33,33,33,library,Chartwell Library,175.278308086,-37.75155206899996,hamilton
+34,34,34,library,"Education Library, University of Waikato",175.3199909000001,-37.78620909999995,hamilton
+35,35,35,library,Hillcrest Library,175.3204202000001,-37.79536419999994,hamilton
+36,36,36,library,Dinsdale Library,175.2460800000001,-37.79450389999994,hamilton
+37,37,37,library,Wendell B Mendenhall Library,175.2274834000001,-37.82082119999995,hamilton
+38,38,38,library,Campus Library,175.3177915000001,-37.78749649999997,hamilton
+39,39,39,medical_clinic,Hamilton East Medical Centre,175.292912912,-37.78958412899993,hamilton
+40,40,40,medical_clinic,Redicare Medical Centre,175.2733564670001,-37.78358823299993,hamilton
+41,41,41,medical_clinic,Victoria Clinic,175.2787561560001,-37.78203732499998,hamilton
+42,42,42,medical_clinic,Tui Medical,175.2870699000001,-37.76173489999996,hamilton
+43,43,43,medical_clinic,Anglesea Clinic Accident & Medical,175.2833056000001,-37.79236319999995,hamilton
+44,44,44,medical_clinic,Hamilton Lake Clinic,175.2810695000001,-37.79611739999996,hamilton
+45,45,45,medical_clinic,Dinsdale Medical Centre,175.2469561,-37.79541479999995,hamilton
+46,46,46,medical_clinic,Masters Medical Clinic,175.3202249010001,-37.79561539899998,hamilton
+47,47,47,medical_clinic,Five Cross Roads Medical Centre,175.2925602380001,-37.77122473499998,hamilton
+48,48,48,medical_clinic,Fairfield Medical Centre,175.2825406000001,-37.77134539999997,hamilton
+49,49,49,medical_clinic,South City Health,175.2713546450001,-37.80868218799998,hamilton
+50,50,50,medical_clinic,Glenview Medical Centre,175.2829175730001,-37.81683204399997,hamilton
+51,51,51,medical_clinic,Parkwood Medical Centre,175.2940869500001,-37.74920334999996,hamilton
+52,52,52,medical_clinic,Tui Medical Centre,175.2746593000001,-37.72926649999994,hamilton
+53,53,53,medical_clinic,Flagstaff Medical Centre,175.2545393,-37.73869949999994,hamilton
+54,54,54,medical_clinic,Hillcrest Medical Centre,175.316454,-37.79895339999996,hamilton
+55,55,55,medical_clinic,River Road Family Practice,175.2704136000001,-37.77018039999996,hamilton
+56,56,56,medical_clinic,Westend Health Centre,175.2468805000001,-37.79660329999996,hamilton
+57,57,57,medical_clinic,Tui Medical,175.2466455000001,-37.75768179999994,hamilton
+58,58,58,downtown,downtown,175.2793,-37.787,hamilton
+59,59,59,primary_school,Te Totara Primary School,175.266642,-37.719711,hamilton
+60,60,60,primary_school,Te Ao MÄrama School,175.2397,-37.720389,hamilton
+61,61,61,primary_school,TKKM o Toku Mapihi Maurea,175.324237,-37.788582,hamilton
+62,62,62,primary_school,Aberdeen School,175.243254,-37.788994,hamilton
+63,63,63,primary_school,Bankwood School,175.276101,-37.754904,hamilton
+64,64,64,primary_school,Deanwell School,175.275621,-37.819873,hamilton
+65,65,65,primary_school,Fairfield Primary School,175.284079,-37.764101,hamilton
+66,66,66,primary_school,TKKM o Te Ara Rima,175.29569,-37.771217,hamilton
+67,67,67,primary_school,Forest Lake School,175.255939,-37.770329,hamilton
+68,68,68,primary_school,Frankton School,175.249638,-37.793245,hamilton
+69,69,69,primary_school,Glenview School (Hamilton),175.290755,-37.816343,hamilton
+70,70,70,primary_school,Hamilton East School,175.290498,-37.787414,hamilton
+71,71,71,primary_school,Hamilton West School,175.2833,-37.798955,hamilton
+72,72,72,primary_school,Hillcrest Normal School,175.321223,-37.801117,hamilton
+73,73,73,primary_school,Hukanui School,175.278925,-37.748144,hamilton
+74,74,74,primary_school,Insoll Avenue School,175.296347,-37.76184600000001,hamilton
+75,75,75,primary_school,Knighton Normal School,175.310073,-37.79304699999999,hamilton
+76,76,76,primary_school,Melville Primary School,175.283493,-37.814231,hamilton
+77,77,77,primary_school,Nawton School,175.241734,-37.779875,hamilton
+78,78,78,primary_school,Pukete School,175.240436,-37.745144,hamilton
+79,79,79,primary_school,Rhode Street School,175.251791,-37.799051,hamilton
+80,80,80,primary_school,Silverdale Normal School,175.329298,-37.79287100000001,hamilton
+81,81,81,primary_school,St Columba's Catholic School (Frankton),175.250882,-37.786756,hamilton
+82,82,82,primary_school,St Joseph's Catholic School (Fairfield),175.274387,-37.76668,hamilton
+83,83,83,primary_school,St Peter Chanel Catholic School (Te Rapa),175.253234,-37.764273,hamilton
+84,84,84,primary_school,St Pius X Catholic School (Melville),175.288082,-37.813154,hamilton
+85,85,85,primary_school,Te Rapa School,175.236039,-37.739391,hamilton
+86,86,86,primary_school,Vardon School,175.256974,-37.76335,hamilton
+87,87,87,primary_school,Whitiora School,175.270037,-37.779587,hamilton
+88,88,88,primary_school,Woodstock School,175.273488,-37.768749,hamilton
+89,89,89,primary_school,Marian Catholic School (Hamilton),175.295006,-37.790836,hamilton
+90,90,90,primary_school,Crawshaw School,175.232277,-37.773937,hamilton
+91,91,91,primary_school,Southwell School,175.297034,-37.774857,hamilton
+92,92,92,primary_school,Endeavour School,175.253714,-37.732246,hamilton
+93,93,93,primary_school,Rototuna Primary School,175.276572,-37.732335,hamilton
+0,0,0,downtown,downtown,172.633386,-43.53296,christchurch
+1,1,1,fire_station,ANZAC Fire Station,172.6909776,-43.5126336,christchurch
+2,2,2,fire_station,Brooklands Fire Station,172.6960113,-43.3996132,christchurch
+3,3,3,fire_station,Christchurch Fire Station,172.6441683742707,-43.526785,christchurch
+4,4,4,fire_station,Diamond Harbour Fire Station,172.7305453,-43.6281526,christchurch
+5,5,5,fire_station,Governors Bay Fire Station,172.6464425,-43.6269266,christchurch
+6,6,6,fire_station,Harewood Fire Station,172.5657746,-43.4888915,christchurch
+7,7,7,fire_station,Kaiapoi Fire Station,172.6542083,-43.3820055,christchurch
+8,8,8,fire_station,Kirwee Fire Station,172.2125161,-43.4988985,christchurch
+9,9,9,fire_station,Lincoln Fire Station,172.4866046,-43.6390595,christchurch
+10,10,10,fire_station,Lyttelton Fire Station,172.7187286,-43.6019467,christchurch
+11,11,11,fire_station,Rangiora Fire Station,172.594508,-43.3049935,christchurch
+12,12,12,fire_station,Redwood Fire Station,172.6024123,-43.4675686,christchurch
+13,13,13,fire_station,Rolleston Fire Station,172.3770423,-43.5922697,christchurch
+14,14,14,fire_station,Spreydon Fire Station,172.6198742,-43.5534692,christchurch
+15,15,15,fire_station,Sumner Fire Station,172.7614099,-43.5725232,christchurch
+16,16,16,fire_station,Wigram Fire Station,172.5312794,-43.5601565,christchurch
+17,17,17,fire_station,Woodend Fire Station,172.6759292,-43.3234224,christchurch
+18,18,18,fire_station,Woolston Fire Station,172.6913042,-43.5540299,christchurch
+19,19,19,hospital,Burwood Hospital,172.6849383875119,-43.48031835,christchurch
+20,20,20,hospital,Christchurch Hospital,172.625237,-43.5342631,christchurch
+21,21,21,hospital,Hillmorton Hospital,172.5964978,-43.5512624,christchurch
+22,22,22,hospital,Rangiora Health Hub,172.592271,-43.2897332,christchurch
+23,23,23,hospital,Southern Cross Hospital,172.6452759,-43.5209353,christchurch
+24,24,24,hospital,St George Hospital,172.61816,-43.5107722,christchurch
+25,25,25,library,Aranui Library,172.6975544000001,-43.51224879999995,christchurch
+26,26,26,library,Bishopdale Library,172.586849,-43.48942969999996,christchurch
+27,27,27,library,Central Library - Te Puna Mātauraka o Waitaha,172.5825475,-43.52366049999995,christchurch
+28,28,28,library,Diamond Harbour Library,172.7403760000001,-43.62640304999996,christchurch
+29,29,29,library,Engineering and Physical Sciences Library,172.5846518950001,-43.52138079099996,christchurch
+30,30,30,library,Fendalton Library,172.5914410700001,-43.51384960599995,christchurch
+31,31,31,library,Hornby Library,172.5225572500001,-43.54478359999996,christchurch
+32,32,32,library,Ivey Hall,172.468067869,-43.64428595299995,christchurch
+33,33,33,library,Lincoln Library,172.4820897000001,-43.64032989999998,christchurch
+34,34,34,library,Lincoln Library,172.4819892800001,-43.64034280099997,christchurch
+35,35,35,library,Linwood Library,172.6752289000001,-43.53310649999997,christchurch
+36,36,36,library,Lyttelton Library,172.7207218200001,-43.60266123899999,christchurch
+37,37,37,library,New Brighton Library,172.7313546,-43.50705769999996,christchurch
+38,38,38,library,Opawa Children's Library,172.6668521,-43.55541739999995,christchurch
+39,39,39,library,Papanui Library,172.6071387840001,-43.49417475799999,christchurch
+40,40,40,library,Parklands Library,172.7071760480001,-43.48185380999996,christchurch
+41,41,41,library,Puaka-James Hight Building,172.582810146,-43.52375767099994,christchurch
+42,42,42,library,Redcliff Village Library,172.7390961000001,-43.56188899999995,christchurch
+43,43,43,library,Redwood Library,172.616475,-43.47741499999995,christchurch
+44,44,44,library,Rolleston Library,172.3804977000001,-43.59745439999995,christchurch
+45,45,45,library,School Library,172.59317263,-43.55766780099998,christchurch
+46,46,46,library,Shirley Library,172.6631301200001,-43.50512882699996,christchurch
+47,47,47,library,South Christchurch Library,172.638080518,-43.56141206899997,christchurch
+48,48,48,library,Spreydon Library,172.6182917760001,-43.55642116899998,christchurch
+49,49,49,library,Te Hapua Halswell Centre,172.5687572090001,-43.58118778599993,christchurch
+50,50,50,library,Tūranga (Christchurch Central Library),172.6372295430001,-43.53006542299994,christchurch
+51,51,51,library,Upper Riccarton Community and School Library,172.5630751050001,-43.53500254599993,christchurch
+52,52,52,library,Woolston Community Library,172.6830871000001,-43.54911269999997,christchurch
+53,53,53,medical_clinic,Akaroa Health Centre,172.961024,-43.813755,christchurch
+54,54,54,medical_clinic,Amyes Clinic,172.5258268,-43.5455576,christchurch
+55,55,55,medical_clinic,Barrington Medical Centre,172.6203783000001,-43.55710849999997,christchurch
+56,56,56,medical_clinic,Belfast Doctors,172.6329206,-43.4446935,christchurch
+57,57,57,medical_clinic,Belfast Medical Centre,172.6329767000001,-43.44512769999994,christchurch
+58,58,58,medical_clinic,Body Wise Health,172.6742646,-43.51416719999997,christchurch
+59,59,59,medical_clinic,Burnside Medical Centre,172.5788337,-43.49646009999998,christchurch
+60,60,60,medical_clinic,Cashmere Health,172.6468775000001,-43.56675529999995,christchurch
+61,61,61,medical_clinic,Cashmere Health,172.6354335000001,-43.56717529999997,christchurch
+62,62,62,medical_clinic,Cashmere Medical Practice,172.6293675000001,-43.56690279999998,christchurch
+63,63,63,medical_clinic,Cranford Medical,172.634697,-43.5050039,christchurch
+64,64,64,medical_clinic,East Health Care,172.7011477,-43.5165547,christchurch
+65,65,65,medical_clinic,Etu Pasifika Health Clinic,172.6304421,-43.5383998,christchurch
+66,66,66,medical_clinic,Family Planning Clinic,172.6437135000001,-43.54091319999998,christchurch
+67,67,67,medical_clinic,Fendalton Medical Center,172.5870907,-43.5177438,christchurch
+68,68,68,medical_clinic,Ferry Road Medical Centre,172.6603145,-43.54103649999996,christchurch
+69,69,69,medical_clinic,Ferrymead Medical Centre,172.7051465000001,-43.55771259999995,christchurch
+70,70,70,medical_clinic,Grahams Rd Medical Practice,172.569969,-43.507815,christchurch
+71,71,71,medical_clinic,Greers Road Medical Centre,172.5863861,-43.49853539999998,christchurch
+72,72,72,medical_clinic,Halswell Medical Centre,172.5685192000001,-43.57442559999998,christchurch
+73,73,73,medical_clinic,Harewood Medical,172.5951951,-43.4911595,christchurch
+74,74,74,medical_clinic,Hei hei Health Cnetre,172.5213776,-43.535801,christchurch
+75,75,75,medical_clinic,High Street Health,172.6051852,-43.5292126,christchurch
+76,76,76,medical_clinic,HillMed Health Centre,172.594187,-43.554171,christchurch
+77,77,77,medical_clinic,Ilam Medical Centre,172.580734,-43.512267,christchurch
+78,78,78,medical_clinic,Inspire Health,172.5717331,-43.5156762,christchurch
+79,79,79,medical_clinic,Kendal Medical Centre,172.5727186,-43.49783279999997,christchurch
+80,80,80,medical_clinic,Kingdom Clinic,172.6555045,-43.532948,christchurch
+81,81,81,medical_clinic,Lincoln Medical,172.485264,-43.640544,christchurch
+82,82,82,medical_clinic,Lyttelton Health Centre,172.7226800908843,-43.6034898,christchurch
+83,83,83,medical_clinic,Mansfield Health,172.6214676,-43.511509,christchurch
+84,84,84,medical_clinic,Manuka Medical Centre,172.6473939000001,-43.49732029999996,christchurch
+85,85,85,medical_clinic,Marshlands Faimly Health Centre,172.659142,-43.47486,christchurch
+86,86,86,medical_clinic,Moorehouse Medical Centre,172.6397248000001,-43.54091639999996,christchurch
+87,87,87,medical_clinic,Mt Pleasant Medical Centre,172.7222201000001,-43.55791409999995,christchurch
+88,88,88,medical_clinic,North Avon Medical,172.6540828,-43.5177517,christchurch
+89,89,89,medical_clinic,Northwood Medical Centre,172.617473,-43.475067,christchurch
+90,90,90,medical_clinic,Papanui Medical,172.6111685,-43.5002884,christchurch
+91,91,91,medical_clinic,Parklands Medical Centre,172.6954482000001,-43.47987499999994,christchurch
+92,92,92,medical_clinic,Piki Te Ora Health,172.6713737,-43.5321657,christchurch
+93,93,93,medical_clinic,ProMed Edgeware Doctors,172.6363271,-43.52005709999997,christchurch
+94,94,94,medical_clinic,Queenspark Healthcare,172.6959984000001,-43.47783679999998,christchurch
+95,95,95,medical_clinic,Redcliffs Medical,172.7384394065069,-43.5619666,christchurch
+96,96,96,medical_clinic,Redwood Clinic,172.617,-43.47919,christchurch
+97,97,97,medical_clinic,Riccarton Clinic,172.5717414,-43.5317048,christchurch
+98,98,98,medical_clinic,Roimata Medical Centre,172.6817667,-43.54841919999996,christchurch
+99,99,99,medical_clinic,Rolleston Central Health,172.387729,-43.594107,christchurch
+100,100,100,medical_clinic,Rolleston Medical Centre,172.375456,-43.594682,christchurch
+101,101,101,medical_clinic,Selwyn Street Medical Centre,172.6223295000001,-43.54830659999993,christchurch
+102,102,102,medical_clinic,Shirley Medical Centre,172.6624452000001,-43.50705449999998,christchurch
+103,103,103,medical_clinic,St Albans Medical Centre,172.6304074000001,-43.50949199999997,christchurch
+104,104,104,medical_clinic,St Georges Medical Centre,172.6205317,-43.51112389999997,christchurch
+105,105,105,medical_clinic,St Martins Medical Practice,172.654436,-43.559185,christchurch
+106,106,106,medical_clinic,Sumner Health Centre,172.758415,-43.568929,christchurch
+107,107,107,medical_clinic,Templeton Medical Centre,172.4730412,-43.55335829999996,christchurch
+108,108,108,medical_clinic,The Christchurch Doctors,172.637486,-43.532117,christchurch
+109,109,109,medical_clinic,The Doctors Christchurch South,172.636623,-43.556245,christchurch
+110,110,110,medical_clinic,The Hoon Hay Medical Centre,172.6041750000001,-43.56599649999998,christchurch
+111,111,111,medical_clinic,Travis Medical Centre,172.7096824,-43.49477999999993,christchurch
+112,112,112,medical_clinic,UC Campus Health,172.581117,-43.524848,christchurch
+113,113,113,medical_clinic,Upper Riccarton Medical Centre,172.577845,-43.53111,christchurch
+114,114,114,medical_clinic,Village Health Medical Centre,172.596565,-43.552874,christchurch
+115,115,115,medical_clinic,Waltham Medical Centre,172.646187,-43.550599,christchurch
+116,116,116,medical_clinic,WeCare Health Lincoln,172.475191,-43.64213,christchurch
+117,117,117,medical_clinic,West Melton Medical Centre,172.370329,-43.522783,christchurch
+118,118,118,medical_clinic,White Cross Health,172.7275867,-43.5090407,christchurch
+119,119,119,medical_clinic,Wigram Health,172.5569272,-43.5519662,christchurch
+120,120,120,medical_clinic,Woodham Road Medical,172.661649,-43.52501,christchurch
+121,121,121,medical_clinic,Woolston Christian Medical Centre,172.6828281000001,-43.54910639999997,christchurch
+122,122,122,medical_clinic,Yaldhurst Family Doctors,172.557564,-43.527764,christchurch
+123,123,123,police_station,Burnham Police,172.6436643,-43.5579633,christchurch
+124,124,124,police_station,Burwood Police,172.7060013,-43.4816393,christchurch
+125,125,125,police_station,Christchurch Airport Police,172.5422197,-43.4985849,christchurch
+126,126,126,police_station,Christchurch Central Police,172.6348646,-43.5344345,christchurch
+127,127,127,police_station,Hornby Police,172.5268065,-43.5444915,christchurch
+128,128,128,police_station,Kaiapoi Police,172.6588209,-43.3815752,christchurch
+129,129,129,police_station,Lyttelton Police,172.7234411407451,-43.6030864,christchurch
+130,130,130,police_station,New Brighton Police,172.7241578,-43.508626,christchurch
+131,131,131,police_station,Papanui Police,172.6093154,-43.4952129,christchurch
+132,132,132,police_station,Rangiora Police,172.5899178,-43.304272,christchurch
+133,133,133,police_station,Sydenham Police,172.6371284,-43.556896,christchurch
+134,134,134,police_station,Tai Tapu Police,172.5268065,-43.5444915,christchurch
+135,135,135,primary_school,Addington Te Kura Taumatua,172.618232,-43.547853,christchurch
+136,136,136,primary_school,Avonhead School,172.559489,-43.524097,christchurch
+137,137,137,primary_school,Bamford School,172.687446,-43.554154,christchurch
+138,138,138,primary_school,Banks Avenue School,172.668103,-43.513246,christchurch
+139,139,139,primary_school,Beckenham Te Kura o P?roto,172.64548,-43.562872,christchurch
+140,140,140,primary_school,Belfast School,172.627294,-43.453613,christchurch
+141,141,141,primary_school,Bishopdale School,172.59624,-43.486644,christchurch
+142,142,142,primary_school,Bromley School,172.687047,-43.536552,christchurch
+143,143,143,primary_school,Burnside Primary School,172.581774,-43.512733,christchurch
+144,144,144,primary_school,Cashmere Primary Te Pae Kerer?,172.632538,-43.576413,christchurch
+145,145,145,primary_school,Christ The King School (Burnside),172.576628,-43.509149,christchurch
+146,146,146,primary_school,Christchurch East School,172.64835,-43.529642,christchurch
+147,147,147,primary_school,Cotswold School,172.58717,-43.482453,christchurch
+148,148,148,primary_school,Diamond Harbour School,172.726697,-43.629957,christchurch
+149,149,149,primary_school,Duvauchelle School,172.932037,-43.749666,christchurch
+150,150,150,primary_school,Elmwood Normal School,172.614747,-43.513809,christchurch
+151,151,151,primary_school,Fendalton Open Air School,172.59114,-43.517076,christchurch
+152,152,152,primary_school,Gilberthorpe School,172.521336,-43.529733,christchurch
+153,153,153,primary_school,Governors Bay School,172.649982,-43.623981,christchurch
+154,154,154,primary_school,Halswell School,172.569373,-43.59065,christchurch
+155,155,155,primary_school,Harewood School,172.559438,-43.479767,christchurch
+156,156,156,primary_school,Heathcote Valley School,172.70887,-43.579871,christchurch
+157,157,157,primary_school,Hoon Hay School,172.606589,-43.564861,christchurch
+158,158,158,primary_school,Hornby Primary School,172.522624,-43.538702,christchurch
+159,159,159,primary_school,Ilam School,172.579687,-43.526408,christchurch
+160,160,160,primary_school,Isleworth School,172.582115,-43.493102,christchurch
+161,161,161,primary_school,Jean Seabrook Memorial School,172.654818,-43.520217,christchurch
+162,162,162,primary_school,Knights Stream School- Mingimingi Hautoa,172.537925,-43.570857,christchurch
+163,163,163,primary_school,Linwood Avenue School,172.674872,-43.535279,christchurch
+164,164,164,primary_school,Little River School,172.795478,-43.763792,christchurch
+165,165,165,primary_school,Lyttelton Primary School,172.72316,-43.602339,christchurch
+166,166,166,primary_school,Mairehau Primary School,172.641407,-43.498705,christchurch
+167,167,167,primary_school,Marshland School,172.66474,-43.472023,christchurch
+168,168,168,primary_school,Medbury Preparatory School,172.589106,-43.521884,christchurch
+169,169,169,primary_school,Merrin School,172.55857,-43.510492,christchurch
+170,170,170,primary_school,Mt Pleasant School,172.715918,-43.562443,christchurch
+171,171,171,primary_school,New Brighton Catholic School (Chch),172.723715,-43.505937,christchurch
+172,172,172,primary_school,Northcote School (Christchurch),172.614001,-43.47936,christchurch
+173,173,173,primary_school,Nova Montessori School,172.724985,-43.510655,christchurch
+174,174,174,primary_school,Oaklands School,172.564642,-43.571578,christchurch
+175,175,175,primary_school,Okains Bay School,173.042728,-43.708867,christchurch
+176,176,176,primary_school,Opawa School,172.664481,-43.555657,christchurch
+177,177,177,primary_school,Our Lady Star of the Sea School (Christchurch),172.762534,-43.574863,christchurch
+178,178,178,primary_school,Our Lady of Victories,172.559117,-43.53621,christchurch
+179,179,179,primary_school,Our Lady of the Assumption School (Chch),172.607072,-43.564783,christchurch
+180,180,180,primary_school,Ouruhia Model School,172.660379,-43.444592,christchurch
+181,181,181,primary_school,Papanui School,172.619719,-43.48802,christchurch
+182,182,182,primary_school,Paparoa Street School,172.619578,-43.49965,christchurch
+183,183,183,primary_school,Parkview P?rua,172.705623,-43.480595,christchurch
+184,184,184,primary_school,Queenspark School,172.695976,-43.473153,christchurch
+185,185,185,primary_school,R?whiti School,172.7177,-43.4961,christchurch
+186,186,186,primary_school,Redcliffs School,172.758806,-43.579766,christchurch
+187,187,187,primary_school,Redwood School (Christchurch),172.621946,-43.473601,christchurch
+188,188,188,primary_school,Riccarton School,172.564135,-43.533358,christchurch
+189,189,189,primary_school,Russley School,172.544696,-43.517891,christchurch
+190,190,190,primary_school,Sacred Heart School (Christchurch),172.612749,-43.546061,christchurch
+191,191,191,primary_school,Selwyn House School,172.623003,-43.516638,christchurch
+192,192,192,primary_school,Seven Oaks School,172.54845,-43.58266500000001,christchurch
+193,193,193,primary_school,Shirley Primary School,172.653144,-43.507883,christchurch
+194,194,194,primary_school,Somerfield Te Kura Wairepo,172.628529,-43.56164,christchurch
+195,195,195,primary_school,South Hornby School,172.529039,-43.547117,christchurch
+196,196,196,primary_school,South New Brighton School,172.733519,-43.526215,christchurch
+197,197,197,primary_school,Spreydon School,172.597919,-43.55757,christchurch
+198,198,198,primary_school,St Albans Catholic School (Christchurch),172.629087,-43.507126,christchurch
+199,199,199,primary_school,St Albans School,172.63438,-43.50877,christchurch
+200,200,200,primary_school,St Anne's School (Woolston),172.685572,-43.550378,christchurch
+201,201,201,primary_school,St Bernadette's School (Hornby),172.525337,-43.533479,christchurch
+202,202,202,primary_school,St Francis of Assisi Catholic School,172.639385,-43.499787,christchurch
+203,203,203,primary_school,St James School (Aranui),172.704852,-43.511725,christchurch
+204,204,204,primary_school,St Joseph's School (Papanui),172.614436,-43.488669,christchurch
+205,205,205,primary_school,St Mark's School (Christchurch),172.659298,-43.552882,christchurch
+206,206,206,primary_school,St Martins School,172.657224,-43.565427,christchurch
+207,207,207,primary_school,St Mary's School (Christchurch),172.639253,-43.523222,christchurch
+208,208,208,primary_school,St Michael's Church School,172.633057,-43.53477,christchurch
+209,209,209,primary_school,St Patrick's School (Bryndwr),172.604041,-43.511234,christchurch
+210,210,210,primary_school,St Peter's School (Beckenham),172.63769,-43.559761,christchurch
+211,211,211,primary_school,St Teresa's School (Riccarton),172.592132,-43.529753,christchurch
+212,212,212,primary_school,Sumner School,172.75962,-43.573093,christchurch
+213,213,213,primary_school,Tamariki School,172.68923,-43.546474,christchurch
+214,214,214,primary_school,Te Ara Koropiko West Spreydon School,172.611289,-43.559629,christchurch
+215,215,215,primary_school,Te Ara Maurea Roydvale School,172.56314,-43.49448,christchurch
+216,216,216,primary_school,Te K?manawa Rowley School,172.58776,-43.562247,christchurch
+217,217,217,primary_school,Te Waka Unua School,172.672631,-43.545666,christchurch
+218,218,218,primary_school,Templeton School,172.472353,-43.550157,christchurch
+219,219,219,primary_school,The Cathedral Grammar School,172.628547,-43.528053,christchurch
+220,220,220,primary_school,Thorrington School,172.63656,-43.5663,christchurch
+221,221,221,primary_school,Waimairi School,172.605274,-43.504209,christchurch
+222,222,222,primary_school,Wairakei School (Christchurch),172.588274,-43.500162,christchurch
+223,223,223,primary_school,Waitakiri Primary School,172.683836,-43.488839,christchurch
+224,224,224,primary_school,Waltham School,172.648604,-43.548984,christchurch
+225,225,225,primary_school,Westburn School,172.570879,-43.512142,christchurch
+226,226,226,primary_school,Wh?tau School,172.675784,-43.524843,christchurch
+227,227,227,primary_school,Wharenui School,172.596734,-43.536306,christchurch
+228,228,228,primary_school,Wigram Primary School - Te Piki K?hu,172.551909,-43.55422,christchurch
+229,229,229,primary_school,Yaldhurst Model School,172.502181,-43.510189,christchurch
+230,230,230,supermarket,Big Chicken Supermarket,172.5802564000001,-43.53516049999996,christchurch
+231,231,231,supermarket,Countdown,172.573047466,-43.53274002799998,christchurch
+232,232,232,supermarket,Countdown,172.7025114,-43.55682684999994,christchurch
+233,233,233,supermarket,Countdown,172.641741665,-43.53874130399998,christchurch
+234,234,234,supermarket,Countdown,172.7299484650001,-43.50676606199994,christchurch
+235,235,235,supermarket,Countdown,172.6250142470001,-43.45900317399997,christchurch
+236,236,236,supermarket,Countdown,172.6117040920001,-43.49152959399999,christchurch
+237,237,237,supermarket,Countdown,172.38667594,-43.59418265599993,christchurch
+238,238,238,supermarket,Countdown,172.5269712,-43.54274885899997,christchurch
+239,239,239,supermarket,Countdown,172.5477124370001,-43.48986068699998,christchurch
+240,240,240,supermarket,Countdown,172.6645278000001,-43.50565709999995,christchurch
+241,241,241,supermarket,Countdown,172.5572106000001,-43.51118659999997,christchurch
+242,242,242,supermarket,Countdown,172.6755846000001,-43.53245069999997,christchurch
+243,243,243,supermarket,Countdown Sydenham,172.6355982860001,-43.55331378099999,christchurch
+244,244,244,supermarket,Edgeware FreshChoice,172.6367287290001,-43.51316108099996,christchurch
+245,245,245,supermarket,Four Square,172.3704124000001,-43.52323509999997,christchurch
+246,246,246,supermarket,Fresh Choice,172.706094686,-43.48134612199993,christchurch
+247,247,247,supermarket,Fresh Choice,172.6205318000001,-43.55570829999994,christchurch
+248,248,248,supermarket,Fresh Choice City Market,172.6378384000001,-43.53408429999996,christchurch
+249,249,249,supermarket,Fresh Choice Supermarket,172.6213802000001,-43.51284539999995,christchurch
+250,250,250,supermarket,FreshChoice,172.6365852,-43.51329619999996,christchurch
+251,251,251,supermarket,New World,172.5659203170001,-43.58063685799993,christchurch
+252,252,252,supermarket,New World,172.622390384,-43.45963501599994,christchurch
+253,253,253,supermarket,New World,172.587213697,-43.48845187699993,christchurch
+254,254,254,supermarket,New World,172.654789315,-43.55753906399997,christchurch
+255,255,255,supermarket,New World,172.739007526,-43.56242398299997,christchurch
+256,256,256,supermarket,New World,172.6620093940001,-43.47515957799993,christchurch
+257,257,257,supermarket,New World,172.6331341110001,-43.53870921199996,christchurch
+258,258,258,supermarket,New World,172.588375,-43.51793189999995,christchurch
+259,259,259,supermarket,New World,172.5575428000001,-43.55269549999997,christchurch
+260,260,260,supermarket,New World,172.5701643000001,-43.52588369999995,christchurch
+261,261,261,supermarket,New World,172.5874903,-43.48856449999994,christchurch
+262,262,262,supermarket,New World,172.6840966000001,-43.54903779999995,christchurch
+263,263,263,supermarket,New World Ilam,172.5700589180001,-43.52595040699998,christchurch
+264,264,264,supermarket,New World Lincoln,172.473712093,-43.64225792499997,christchurch
+265,265,265,supermarket,New World Rolleston,172.3824238000001,-43.59676269999994,christchurch
+266,266,266,supermarket,New World Stanmore,172.6569832160001,-43.52016129399993,christchurch
+267,267,267,supermarket,PAK'nSAVE,172.5233262,-43.54264349999994,christchurch
+268,268,268,supermarket,Pak'nSave,172.6089146390001,-43.49285848299996,christchurch
+269,269,269,supermarket,Pak'nSave,172.6932267420001,-43.51282276199998,christchurch
+270,270,270,supermarket,Pak'nSave,172.5961987000001,-43.53109439999997,christchurch
+271,271,271,supermarket,Pak'nSave Moorhouse Avenue,172.6383239190001,-43.53900826999995,christchurch
+272,272,272,supermarket,Raeward Fresh,172.6053454,-43.54010549999998,christchurch
+273,273,273,supermarket,Reawood Fresh,172.5552277310001,-43.47779970399995,christchurch
+274,274,274,supermarket,Sumner Supervalue,172.7599983890001,-43.56943269799996,christchurch
+275,275,275,supermarket,SuperValue,172.721515368,-43.60288086599996,christchurch
+276,276,276,supermarket,SuperValue,172.5902803,-43.50951299999997,christchurch
+277,277,277,supermarket,Supervalue,172.6574869210001,-43.53041973599994,christchurch
