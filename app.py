@@ -106,7 +106,7 @@ def update_output(
         if amenity_select=='downtown':
             return '{:.1f} % of {} residents are within a {}-minute {} of {}'.format(percentage, city_select.capitalize(), max_time, mode_dict[mode_select], amenity_select)
         else:
-            return '{:.1f} % of {} residents are within a {}-minute {} of a {}'.format(percentage, city_select.capitalize(), max_time, mode_dict[mode_select], amenity_select)
+            return '{:.1f} % of {} residents are within a {}-minute {} of a {}'.format(percentage, city_select.capitalize(), max_time, mode_dict[mode_select], amenity_select.replace('_',' '))
     else:
         return ''
 
