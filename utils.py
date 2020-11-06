@@ -16,7 +16,7 @@ def get_header(app):
                             src=app.get_asset_url("UC_logo.png"),
                             className="logo",
                         )],
-                        href='https://canterbury.ac.nz/civil'),
+                        href='https://www.canterbury.ac.nz/civil'),
                     # html.A(
                     #     html.Button("Learn More", id="learn-more-button"),
                     #     href="https://plot.ly/dash/pricing/",
